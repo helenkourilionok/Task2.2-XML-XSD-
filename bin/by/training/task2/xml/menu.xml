@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:menu xmlns:tns="http://www.training.by/Task2/menu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.training.by/Task2/menu menu.xsd ">
+  <list-dishes id="id1" nameListDishes="cold collationes">
+    <food id="1">
+      <name>name</name>
+      <description>description</description>
+      <portion>portion</portion>
+      <price>1</price>
+    </food>
+  </list-dishes>
+  <list-dishes id="id2" nameListDishes="hot collationes">
+    <food id="1">
+      <name>name</name>
+      <description>description</description>
+      <portion>portion</portion>
+      <price>1</price>
+    </food>
+    <food id="2">
+      <name>name2</name>
+      <description>description2</description>
+      <portion>portion2</portion>
+      <price>2</price>
+    </food>
+  </list-dishes>
+  <list-dishes id="id3" nameListDishes="breakfast dishes">
+  	<food id="1">
+      <name>name3</name>
+      <description>description3</description>
+      <portion>portion3</portion>
+      <price>3</price>
+    </food>
+  </list-dishes>
+</tns:menu>
